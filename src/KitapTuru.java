@@ -1,0 +1,5 @@
+public enum KitapTuru {
+
+    TARIH, POLISIYE, KURGU, ROMAN, DESTAN, TANIMLANMAMIS_TUR
+
+}
